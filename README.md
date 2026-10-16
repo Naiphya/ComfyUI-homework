@@ -1,7 +1,7 @@
 # ComfyUI 圖生圖
 
 # 原圖
-![原圖](assets/a.png)
+![原圖](assets/c.png)
 # 完成圖
 ![生成圖](assets/b.jpg)
 # 工作流截圖
