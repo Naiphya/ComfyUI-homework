@@ -1,11 +1,12 @@
 # ComfyUI 圖生圖
 
 # 原圖
-![原圖](A.png)
+![原圖](assets/a.png)
 # 完成圖
-![生成圖](B.png)
+![生成圖](assets/b.jpg)
 # 工作流截圖
-![流程圖](workflow.png)
+![流程圖](assets/workflow.png)
+
 
 ## 正面提示詞
 (masterpiece, top quality, ultra-detailed, illustration:1.2), cinematic lighting, vibrant anime aesthetic, beautiful color grading, hand-drawn look, 2d style,
